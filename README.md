@@ -1,7 +1,25 @@
 <p align="center">
   <img width="100" src="https://raw.githubusercontent.com/spacebarchat/spacebarchat/master/branding/png/Spacebar__Icon-Rounded-Subtract.png" />
 </p>
-<h1 align="center">Spacebar Server</h1>
+<h1 align="center">Spacebar Server — AI Contributions Welcome</h1>
+
+## About this fork
+
+This is an independent fork of [Spacebar](https://github.com/spacebarchat/server),
+a self-hosted Discord-compatible server. **AI-generated and AI-assisted
+contributions are welcome here.** Contributors are responsible for reviewing
+their changes and providing relevant validation.
+
+The maintenance goal is to keep this fork up to date with upstream Spacebar and
+use it for local testing of Discord C2 profiles such as
+[Discordx](https://github.com/TheKevinWang/discordx). We welcome generally useful
+compatibility fixes, bug fixes, tests, and documentation improvements.
+
+Please use [this fork's issues](https://github.com/TheKevinWang/spacebar-server/issues)
+and [pull requests](https://github.com/TheKevinWang/spacebar-server/pulls), and read
+our [contribution guide](CONTRIBUTING.MD). This fork is maintained independently;
+its AI contribution policy does not apply to the upstream project. Upstream
+project and community links are retained below for reference.
 
 <p align="center">
   <a href="https://matrix.to/#/#spacebar:rory.gay">
@@ -41,7 +59,7 @@ This repository contains:
 
 And with documentation on how to set up your own server [here](https://docs.spacebar.chat/setup/server), docs to set up either client [here](https://docs.spacebar.chat/setup/clients/), and docs about bots [here](https://docs.spacebar.chat/setup/bots/)
 
-## [Contributing](https://docs.spacebar.chat/contributing/)
+## [Contributing](CONTRIBUTING.MD)
 
 ## Clients
 
