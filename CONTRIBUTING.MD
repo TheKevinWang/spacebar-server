@@ -1,11 +1,13 @@
 # Contributing
 
-Welcome! This independent Spacebar fork accepts AI-generated and AI-assisted
-contributions, including code, tests, documentation, and issue reports.
+Welcome! This independent Spacebar fork focuses on Discord client compatibility
+and reliable local integration testing, informed by work on
+[Discordx](https://github.com/TheKevinWang/discordx). We aim to keep up with
+upstream Spacebar and develop fixes that are useful beyond a single local setup.
 
-We aim to keep up with upstream Spacebar and support local testing of Discord C2
-profiles such as [Discordx](https://github.com/TheKevinWang/discordx). Contributions
-should be useful beyond a single local setup.
+AI-generated and AI-assisted contributions are welcome, including code, tests,
+documentation, and issue reports. See the [README](README.md) for the current
+status of the compatibility work.
 
 ## Issues and pull requests
 
